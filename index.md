@@ -8,3 +8,6 @@ var myVar = "Hello, world!";
 <h3>Prueba</h3>
 <p>Prueba2</p>
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
